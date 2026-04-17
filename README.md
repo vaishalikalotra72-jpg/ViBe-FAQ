@@ -20,9 +20,10 @@
 16. Why do my videos auto-restarts?	13
 17. Why is the quiz not opening even after completing the video segment?	14
 
-
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1.  What are the key guidelines to follow before using the ViBe platform?
+
 Sit in a well lit environment.
 Keep your face uncovered at all times.
 Ensure the background is clear and not blurred. 
